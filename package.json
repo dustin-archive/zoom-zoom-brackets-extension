@@ -1,0 +1,13 @@
+{
+    "name": "dustindowell.zoom-zoom",
+    "title": "Zoom Zoom",
+    "description": "Zoom zoom the sidebar 150%.",
+    "homepage": "https://github.com/dustindowell22/zoom-zoom-brackets-extension",
+    "version": "1.0.0",
+    "author": "Dustin Dowell (https://github.com/dustindowell22)",
+    "license": "MIT",
+    "engines": {
+      "brackets": ">=1.0.0"
+    },
+    "keywords": ["zoom", "zoom zoom"]
+}
